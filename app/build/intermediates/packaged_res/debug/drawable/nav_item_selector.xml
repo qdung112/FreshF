@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/background_icon" android:textColor="#33907C" />
+    <item android:state_checked="true" android:textColor="#33907C"/>
+
+</selector>
+
+<!--<item android:state_pressed="true" android:drawable="@color/nav_item_pressed_background_color" android:textColor="@color/nav_item_pressed_text_color" />-->
+<!--
+<item android:drawable="@android:color/transparent" android:textColor="@color/nav_item_text_color" />-->

@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_popu_image.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\popu_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_order_item.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\order_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_placed_order_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\placed_order_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_view_all_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\view_all_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_freshf_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\freshf_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_cart_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_home.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ecommerce_app.freshF.app-merged_res-52:/layout_fragment_profile.xml.flat",
+        "source": "com.ecommerce_app.freshF.app-main-54:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_sign_up_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\sign_up_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_order.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\order.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_open_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\open_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_order_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_fragment_product.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\font_font.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_search.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_nav_item_selector.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\nav_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_done.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_home_cate_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\home_cate_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_profile_img.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\profile_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_recommended_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\recommended_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_detail_product_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\detail_product_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_detail_order_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\detail_order_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_product.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\product.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_fragment_order.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_view_all_cate_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\view_all_cate_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_view_all_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\view_all_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\layout_popular_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\layout\\popular_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.ecommerce_app.freshF.app-main-54:\\drawable\\ic_launcher_background.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497225949289",
+    "project_id": "freshf-2dc53",
+    "storage_bucket": "freshf-2dc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497225949289:android:506960ce82365c6b9e82f8",
+        "android_client_info": {
+          "package_name": "com.ecommerce_app.freshF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497225949289-sme474j4ookohu4lbqh9diflojeortl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LMzKSkYbPv6WhNKoVAgKaZrFy1xBpoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497225949289-sme474j4ookohu4lbqh9diflojeortl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
